@@ -3,7 +3,7 @@ p {
   color: rgb(161, 41, 5);
 }
 h1 {
-  font-family: 'Dancing Script', sans-serif;
+  font-family: "Dancing Script", sans-serif;
   text-align: center;
   color: blueviolet;
 }
@@ -16,7 +16,7 @@ a:hover {
   color: blueviolet;
 }
 #web-dev-basics {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
   color: darkorchid;
   font-weight: bold;
   font-size: 52px;
