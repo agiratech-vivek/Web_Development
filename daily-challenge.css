@@ -16,3 +16,7 @@ p {
     text-decoration: underline;
     color: blueviolet;
   }
+  #web-dev-basics {
+    color: darkorchid;
+    font-weight: bold;
+  }
