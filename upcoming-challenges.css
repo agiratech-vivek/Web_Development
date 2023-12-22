@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(180, 70, 6);
+    font-size: 52px;
+}
+body {
+    text-align: center;
+    font-size: 30px;
+    background-color: wheat;
+}
+p {
+    font-family: 'Mukta', sans-serif;
+    color: crimson;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: darkslategray;
+}

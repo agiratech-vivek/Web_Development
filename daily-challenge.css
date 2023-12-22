@@ -9,10 +9,12 @@ h1 {
 }
 body {
   text-align: center;
+  background-color: bisque;
+  margin: 50px;
 }
 img {
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
 }
 a {
   text-decoration: none;
