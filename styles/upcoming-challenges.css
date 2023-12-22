@@ -1,9 +1,11 @@
 h1 {
   font-size: 48px;
   color: rgb(71, 62, 62);
+  margin-bottom: 20px;
 }
+
 a {
-  font-family: "Mukta", sans-serif;
+  font-family: "Oswald", sans-serif;
   background-color: rgb(167, 1, 78);
   color: white;
   font-size: 30px;
@@ -11,11 +13,13 @@ a {
   border: 2px rgb(167, 1, 78) solid;
   border-radius: 20px;
 }
+
 a:hover {
   background-color: rgb(177, 0, 82);
   color: white;
   text-decoration: none;
 }
+
 ol {
   list-style: none;
   width: 500px;
@@ -25,7 +29,26 @@ ol {
 
 li {
   padding: 10px;
-  background-color: rgb(216, 124, 48);
+  background-color: rgb(223, 136, 124);
   border-radius: 20px;
   margin: 10px;
+}
+
+h2 {
+  color: rgb(78, 13, 5);
+  font-family: "Oswald", sans-serif;
+}
+
+header p {
+  margin-bottom: 36px;
+}
+
+main p {
+  color: rgb(71, 29, 22);
+  margin: 12px;
+}
+
+.daily-goal {
+  color: rgb(71, 29, 22);
+  margin: 12px;
 }

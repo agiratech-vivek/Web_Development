@@ -2,10 +2,12 @@ h1 {
   font-family: "Oswald", sans-serif;
   color: blueviolet;
 }
+
 img {
   width: 400px;
   height: 400px;
 }
+
 #web-dev-basics {
   font-family: "Quicksand", sans-serif;
   color: darkorchid;

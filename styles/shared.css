@@ -3,19 +3,24 @@ h1 {
   color: rgb(180, 70, 6);
   font-size: 45px;
 }
+
 body {
   text-align: center;
   font-size: 20px;
   background-color: wheat;
   margin: 50px;
 }
+
 p {
   font-family: "Mukta", sans-serif;
   color: crimson;
+  font-size: 20px;
 }
+
 a {
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
   color: darkslategray;
